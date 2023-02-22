@@ -20,5 +20,5 @@
 
 ## Contribution
 ### Assets
-- Bridge - CG-Archion from [cgtrader.com](cgtrader.com)
+- Bridge - CG-Archion from [cgtrader.com](https://www.cgtrader.com)
 - Others
